@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="48dp"
+    android:height="48dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+
+    <!-- Power arc -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#E53935"
+        android:strokeWidth="2"
+        android:pathData="M6.48,4.95 A8,8 0 1 0 17.52,4.95"
+        android:strokeLineCap="round" />
+
+    <!-- Vertical stem -->
+    <path
+        android:fillColor="@android:color/transparent"
+        android:strokeColor="#E53935"
+        android:strokeWidth="2"
+        android:pathData="M12,2 L12,12"
+        android:strokeLineCap="round" />
+
+</vector>
